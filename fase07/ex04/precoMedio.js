@@ -9,6 +9,6 @@ resp= ""
                 resp=arguments[i].nome
             }
     }
-console.log("O produto mais caro se chama " + resp)
+console.log("O produto mais caro se chama \"" + resp + "\"")
 return med/arguments.length
 }
