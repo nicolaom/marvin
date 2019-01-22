@@ -1,4 +1,4 @@
-function entreNumeros (num) {
+function ateZero (num) {
 var z = []
     if (num === 0)
         return [0]
