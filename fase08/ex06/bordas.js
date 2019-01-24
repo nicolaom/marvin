@@ -18,10 +18,10 @@ function bordas (x,y) {
             }
             xx++
         }
-        z=z+"\n"
+        if (!(x==1 & y==1))
+            z=z+"\n"
         xx=1
         yy++
     }
     console.log (z)
 }
-    
