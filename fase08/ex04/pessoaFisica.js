@@ -1,4 +1,4 @@
-function pessoaFisica (x) {
+function CPF (x) {
     if (x.length !=14)
         return false
 n = (x.substr(0,3)+x.substr(4,3)+x.substr(8,3)+x.substr(12,2))
