@@ -19,6 +19,6 @@ function conversor (temp, de, para) {
         tempFin = tempK
     }
 
-return tempFin
+return Math.ceil(tempFin)
 
 }
