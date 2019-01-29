@@ -1,0 +1,23 @@
+#batata{
+    text-transform: lowercase;
+}
+
+#banana{
+    text-transform: capitalize; 
+    color:green; 
+    text-align:right
+}
+
+#abacaxi{
+    background-color: black; 
+    color: white; 
+    font-size: 64px
+}
+
+html{
+    font-family: sans-serif;
+}
+
+#fisalis{
+    list-style-type:square
+}
