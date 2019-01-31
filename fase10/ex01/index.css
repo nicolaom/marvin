@@ -1,0 +1,36 @@
+div.tres {
+ width:1px;
+ height:1px;
+ border: 50px solid;
+ border-color: #00f #00f #00f #00f;
+ }
+ 
+ #DI {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+  }
+  
+   #EI {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+  }
+  
+    #DS {
+    position: fixed;
+    top: 0;
+    right: 0;
+  }
+  
+.circulo {
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	overflow: hidden;
+	float: left;
+	margin: 15px;
+	transition: 0.3s ease;
+	border-style: dotted;
+	border-color: gray
+}
